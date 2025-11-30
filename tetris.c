@@ -1,5 +1,5 @@
 #include <stdio.h>
-commit -m "Criei a integração do Tetris Stack"
+
 #include <stdio.h>
 #include <stdlib.h>
 
